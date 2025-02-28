@@ -42,13 +42,13 @@ example-passenger
 |----classes-custom.txt
 |
 |---/video
-| |-------filel1.avi
-| |-------filel2.avi 
-| |-------filel1.avi 
-| |-------[...]
+|    |-------filel1.avi
+|    |-------filel2.avi 
+|    |-------filel1.avi 
+|    |-------[...]
 |
 |---/weights 
-| |-------best.onnx
+|    |-------best.onnx
 |
 ```
 
