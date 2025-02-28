@@ -14,7 +14,7 @@ cmake ..
 sudo make install
 ```
 
-- Установить Opencv 4.10 с помощью скрипта install_opencv4.10.0.sh [Opencv 4.10](https://github.com/Pavlo2802/example-passengers/edit/main/README.md).
+- Установить Opencv 4.10 с помощью скрипта install_opencv4.10.0.sh [Opencv 4.10](https://github.com/Pavlo2802/example-passengers/blob/main/install_opencv4.10.0.sh).
 ```
 Пример установки opencv:
 ./install_opencv4.10.0.sh
